@@ -26,11 +26,11 @@
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras&logoColor=1572B6)
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow&logoColor=1572B6)
+  ![Pytorch](https://img.shields.io/badge/-Pytorch-333333?style=flat&logo=Pytorch&logoColor=1572B6)
   ![Data visualization](https://img.shields.io/badge/-DataVisualization-333333?style=flat&logo=Datavisualization&logoColor=1572B6)
   ![Data preprocessing](https://img.shields.io/badge/-DataPreprocessing-333333?style=flat&logo=Datapreprocessing&logoColor=1572B6)
   ![Machine Learning](https://img.shields.io/badge/-MachineLearning-333333?style=flat&logo=Machinelearning&logoColor=1572B6)
   ![Deep Learning](https://img.shields.io/badge/-DeepLearning-333333?style=flat&logo=Deeplearning&logoColor=1572B6)
-  ![Pytorch](https://img.shields.io/badge/-Pytorch-333333?style=flat&logo=Pytorch&logoColor=1572B6)
   
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -58,3 +58,9 @@
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MuhammedEminOzdemir&show_icons=true&theme=gradient)
+
+
+<h3> 🛠 &nbsp;CV</h3>
+
+
+https://drive.google.com/file/d/1pmofPZ9Mzhgjgro32ZkA7f_E_9ol08En/view?usp=sharing
