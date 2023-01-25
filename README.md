@@ -27,12 +27,18 @@
   ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras&logoColor=1572B6)
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow&logoColor=1572B6)
   ![Data visualization](https://img.shields.io/badge/-DataVisualization-333333?style=flat&logo=Datavisualization&logoColor=1572B6)
+  ![Data preprocessing](https://img.shields.io/badge/-DataPreprocessing-333333?style=flat&logo=Datapreprocessing&logoColor=1572B6)
+  ![Machine Learning](https://img.shields.io/badge/-MachineLearning-333333?style=flat&logo=Machinelearning&logoColor=1572B6)
+  ![Deep Learning](https://img.shields.io/badge/-DeepLearning-333333?style=flat&logo=Deeplearning&logoColor=1572B6)
+  ![Pytorch](https://img.shields.io/badge/-Pytorch-333333?style=flat&logo=Pytorch&logoColor=1572B6)
+  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSql](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgresql)
   ![Microsoft Sql server Management](https://img.shields.io/badge/-MsSql-333333?style=flat&logo=mssql)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
 - 🔧 &nbsp;
   ![Visual Studio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?style=flat&logo=Anaconda&logoColor=007ACC)
