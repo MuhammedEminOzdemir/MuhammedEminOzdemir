@@ -1,6 +1,9 @@
 ### Hi I am Muhammed Emin Özdemir 👋
 
 
+--> I am a Computer Engineer and  I am working in the field of Data Science, Artificial intelligence, FullStack developer.
+
+
 
 <!--
 **MuhammedEminOzdemir/MuhammedEminOzdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
