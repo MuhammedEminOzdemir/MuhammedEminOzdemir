@@ -60,7 +60,6 @@
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MuhammedEminOzdemir&show_icons=true&theme=gradient)
 
 
-<h3> 🛠 &nbsp;CV</h3>
-
+<h3> &nbsp;-CV-</h3>
 
 https://drive.google.com/file/d/1pmofPZ9Mzhgjgro32ZkA7f_E_9ol08En/view?usp=sharing
