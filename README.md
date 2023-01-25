@@ -7,14 +7,19 @@
 
 <h3> 💻 &nbsp;Known technologies</h3>
 
-- FullStack: &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- Frond-End Developer: &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
+  
+- Back-End Developer: &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  ![SQL](https://img.shields.io/badge/-Sql-333333?style=flat&logo=sql)
   
 - Data Science & Artificial intelligence:  &nbsp;
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
