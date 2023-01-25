@@ -26,7 +26,7 @@
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras&logoColor=1572B6)
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow&logoColor=1572B6)
-  
+  ![Data visualization](https://img.shields.io/badge/-DataVisualization-333333?style=flat&logo=Datavisualization&logoColor=1572B6)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSql](https://img.shields.io/badge/-PostgreSql-333333?style=flat&logo=postgresql)
