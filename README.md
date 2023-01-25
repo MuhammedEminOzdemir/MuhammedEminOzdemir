@@ -2,7 +2,7 @@
 
 
 --> I am a Computer Engineer and  I am working in the field of Data Science, Artificial intelligence, FullStack developer.<br>
---> I am currently working on data science machine learning deep learning and web technologies.
+--> I am currently developing projects on data science machine learning, deep learning and web technologies.<br>
 
 
 <h3> 💻 &nbsp;Known technologies</h3>
